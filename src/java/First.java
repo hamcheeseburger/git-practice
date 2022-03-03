@@ -6,7 +6,7 @@ public class First {
 
     }
 
-    public void thirdCommit() {
+    public void thirdCommit3() {
 
     }
 
