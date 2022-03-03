@@ -13,4 +13,8 @@ public class First {
     public void iss53FirstCommit() {
 
     }
+
+    public void iss53SecondCommit() {
+
+    }
 }
