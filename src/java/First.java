@@ -25,4 +25,8 @@ public class First {
     public void hotfixFirstCommit() {
 
     }
+
+    public void iss53PR() {
+
+    }
 }
