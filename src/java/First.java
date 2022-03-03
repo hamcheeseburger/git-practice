@@ -21,4 +21,8 @@ public class First {
     public void iss53ThirdCommit() {
 
     }
+
+    public void hotfixFirstCommit() {
+
+    }
 }
