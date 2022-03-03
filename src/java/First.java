@@ -9,4 +9,8 @@ public class First {
     public void thirdCommit() {
 
     }
+
+    public void iss53FirstCommit() {
+
+    }
 }
